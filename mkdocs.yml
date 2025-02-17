@@ -2,13 +2,12 @@ site_name: Projekt – kartografie (155PKAR)
 nav:
   - Charakteristika předmětu: index.md
   - Cvičení:
-      - (Ne)tradiční metody tematické kartografie (kartogram + kartodiagram): cviceni/cviceni1.md
-      - Hexagonální sítě, postprocessing: cviceni/cviceni2.md
+      - Zadání projektu, inspirace, zdroje: cviceni/cviceni1.md
+      - Zpracování dat, geocoding: cviceni/cviceni2.md
       - Kontrolní den 1: cviceni/cviceni3.md
-      - Infografika, layout + Q&A: cviceni/cviceni4.md
+      - Infografika, layout: cviceni/cviceni4.md
       - Kontrolní den 2: cviceni/cviceni5.md
-      - Geokódování: cviceni/cviceni6.md
-      - Kontrolní den 3: cviceni/cviceni10.md
+      - Kontrolní den 3: cviceni/cviceni6.md
   - Data: data.md
   # - Hodnocení: hodnoceni.md
   # - Kvíz: quiz.md
