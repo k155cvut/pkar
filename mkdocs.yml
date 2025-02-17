@@ -9,10 +9,8 @@ nav:
       - Kontrolní den 2: cviceni/cviceni5.md
       - Geokódování: cviceni/cviceni6.md
       - Kontrolní den 3: cviceni/cviceni10.md
-  # - Data: data.md
+  - Data: data.md
   # - Hodnocení: hodnoceni.md
-  # - Semestrální práce: semestralka.md
-  # - Výuková videa: videa.md
   # - Kvíz: quiz.md
 plugins:
   - search
