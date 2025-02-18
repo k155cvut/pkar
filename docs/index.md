@@ -37,20 +37,25 @@ Před každým kontrolním dnem (odevzdání vždy do pondělní půlnoci) stude
 [<span>pro.arcgis.com</span><br>Kontrolní formulář](https://arcg.is/1XrH9a3){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 {: .button_array}
 
+Fakultativně možno vyplnit následujíí pomůcku pro přípravu tématu a návrhu mapového výstupu:
+
+[<span>pro.arcgis.com</span><br>Mapmaker's checklist](https://downloads.esri.com/MappingCenter2007/arcGISResources/more/MapEvaluationGuidelines.pdf){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+{: .button_array}
+
 ### Binární kritéria
 
 Aby byl výstup hodnocen, je bezpodmínečně nutné splnit následující povinné atributy:
 
--   min. 3 jevy v hlavní mapě;
--   min. 1 vedlejší mapa (stejné nebo jiné území; může být i detail hlavní mapy);
--   min. 1 graf nebo diagram.
+-   min. **3 jevy** v hlavní mapě;
+-   min. **1 vedlejší mapa** (stejné nebo jiné území; může být i detail hlavní mapy);
+-   min. **1 graf** nebo **diagram**.
 
 ### Kritéria pro hodnocení projektu
 
--   (25 %) správná aplikace metod tématické kartografie (splnění nároků na typ dat pro danou metodu, správná klasifikace dat a funkční závislosti, použití stupnic a asociativnosti barev, legenda);
--   (25 %) splnění obecných zásad kartografie (zobrazení, kompoziční prvky, generalizace dat, topografický podklad tematických map, popisy, čeština, typografie a úprava);
--   (10 %) infografika (správnost provedení, estetika);
--   (10 %) obtížnost, samostatnost;
--   (10 %) estetická stránka, design;
--   (10 %) oponentura;
--   (10 %) prezentace.
+-   (25 %) správná **aplikace metod tématické kartografie** (splnění nároků na typ dat pro danou metodu, správná klasifikace dat a funkční závislosti, použití stupnic a asociativnosti barev, legenda);
+-   (25 %) splnění **obecných zásad kartografie** (zobrazení, kompoziční prvky, generalizace dat, topografický podklad tematických map, popisy, čeština, typografie a úprava);
+-   (10 %) **infografika** (správnost provedení, estetika);
+-   (10 %) **obtížnost**, **samostatnost**;
+-   (10 %) estetická stránka, **design**;
+-   (10 %) **oponentura**;
+-   (10 %) **prezentace**.

@@ -7,8 +7,8 @@ title: Cvičení 1
 
 ## Inspirace
 
-
 [30 Days Map Challenge](https://30daymapchallenge.com/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+[Visual capitalist](https://www.visualcapitalist.com/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 {: .button_array}
 
 ## Osobní cartoblogy
@@ -25,3 +25,5 @@ title: Cvičení 1
 [GIS&T: Cartography and Visualization](https://gistbok-topics.ucgis.org/CV){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [Jan Miklín: Tvorba map](https://tvorbamap.osu.cz/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 {: .button_array}
+
+## Datové zdroje
