@@ -6,23 +6,23 @@
 Cílem projektu je zkombinovat veškeré znalosti z předchozích předmětů Kartografie a GIS a samostatně vytvořit kartografické dílo. Jedná se o tvorbu mapy (mapového plakátu) o rozměru min. A2, kde mapová pole budou zabírat alespoň 2/3 plochy. Zbylé místo bude doplněno dalšími grafickými prvky (obrázky, grafy) a texty. Téma mapy je libovolné, každý student si na začátku zvolí téma své mapy, které bude konzultovat během prvních týdnů výuky. Po odsouhlasení tématu student sám zpracovává mapu, případně konzultuje problémy. Během první poloviny semestru jsou na cvičeních přednášena základní kartografická témata související s tvorbou map (obsahové a kompoziční prvky map, barvy, písmo, jazyk mapy, metody tematické kartografie, nejčastější kartografické chyby, grafické zpracování, DTP, tisk). Tři nejúspěšnější úlohy odměníme možností účasti na podzimní kartografické akci.
 
 <figure markdown>
-![](../assets/data/1.jpg)
-![](../assets/data/2.jpg)
-![](../assets/data/3.jpg)
+![](./assets/data/1.jpg)
+![](./assets/data/2.jpg)
+![](./assets/data/3.jpg)
 {: .process_container}
 </figure>
 
 <figure markdown>
-![](../assets/data/4.jpg)
-![](../assets/data/5.jpg)
-![](../assets/data/6.jpg)
+![](./assets/data/4.jpg)
+![](./assets/data/5.jpg)
+![](./assets/data/6.jpg)
 {: .process_container}
 </figure>
 
 <figure markdown>
-![](../assets/data/7.jpg)
-![](../assets/data/8.jpg)
-![](../assets/data/9.jpg)
+![](./assets/data/7.jpg)
+![](./assets/data/8.jpg)
+![](./assets/data/9.jpg)
 {: .process_container}
 </figure>
 
@@ -31,7 +31,7 @@ Cílem projektu je zkombinovat veškeré znalosti z předchozích předmětů Ka
 Před každým kontrolním dnem (odevzdání vždy do pondělní půlnoci) student vyplní následující formulář, který popisuje jeho práci.
 
 <figure markdown>
-![](../assets/data/155PKAR.png){ width=200px }
+![](./assets/data/155PKAR.png){ width=200px }
 </figure>
 
 [<span>pro.arcgis.com</span><br>Kontrolní formulář](https://arcg.is/1XrH9a3){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
