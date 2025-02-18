@@ -23,4 +23,5 @@ title: Cvičení 1
 
 ## Výukové materiály
 [GIS&T: Cartography and Visualization](https://gistbok-topics.ucgis.org/CV){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+[Jan Miklín: Tvorba map](https://tvorbamap.osu.cz/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 {: .button_array}
