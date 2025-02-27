@@ -6,8 +6,8 @@ title: Cvičení 2
 # Zpracování dat, geokódování
 
 ## Geocoding
-1.  Klikněte pravým tlačítkem myši na tabulku importovanou do ArcGIS Pro a vyberte možnost *Geocode addresses*,
-čímž se načte průvodce geokódováním, který je velmi inuitivní. V několika krocích nastavte parametry geokódování,
+1.  Klikněte pravým tlačítkem myši na tabulku importovanou do ArcGIS Pro a vyberte možnost *Geocode addresses*.
+Tím se načte průvodce geokódováním, který je velmi intuitivní. V několika krocích nastavte parametry geokódování,
 nezapomeňte odhadnout kredity a spustit operaci.
 
 2.  U geokódovaných adres může být několik výsledků: Matched, Tied a Unmatched. Nyní můžete geokódované adresy znovu porovnat
