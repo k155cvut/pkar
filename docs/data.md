@@ -45,6 +45,61 @@ Základní báze geografických dat České republiky (ZABAGED®) je vektorový 
 ## [OpenStreetMap](https://download.geofabrik.de/europe/czech-republic.html "Data OSM pro ČR")
 OpenStreetMap je projekt, jehož cílem je tvorba volně dostupných geografických dat a následně jejich vizualizace do podoby topografických map (např. silniční mapa, turistická mapa, cyklomapa a navigování v nich). Pro tvorbu geodat se jako podklad využívá záznamů z přijímačů globálního družicového polohového systému nebo jiné zpravidla digitalizované mapy, která jsou licenčně kompatibilní. Projekt byl založen v roce 2004 a využívá kolektivní spolupráce spolu s koncepcí Otevřeného software. Data jsou poskytována pod licencí Open Database License.
 
+!!! note "How to download OSM data"
+
+    **1. Directly from OSM**
+    
+    The first method is to download directly from the OpenStreetMap website using their exporter. Simply go to [OSM](www.openstreetmap.org) and find the area you would like to download data for. Hit the *Export* button and you can manually select a desired area by bounding box. Then you can download the file as a .osm file. When working in ArcGIS Pro, you will need to download and install a special *Data Interoperability* extension, which is not a part of the standard package and requires a special license from your site license coordinator.
+
+    [<span>openstreetmap.org</span><br>OSM](https://www.openstreetmap.org){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+    {: .button_array}
+     
+    **2. Geofabrik**
+    
+    This server has data extracts from the OpenStreetMap project which are normally updated every day. Select your continent and then your country of interest from the menu. This open data download service is offered free of charge by Geofabrik GmbH.
+
+    [<span>http://download.geofabrik.de/</span><br>Geofabrik](http://download.geofabrik.de/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+    {: .button_array}
+
+    **3. Overpass Turbo**
+
+    This is a web-based data filtering tool for OpenStreetMap. With **overpass turbo** you can run *Overpass API* queries and analyse the resulting OSM data interactively on a map. There is an integrated *Wizard* which makes creating queries super easy.
+
+    [<span>https://overpass-turbo.eu/</span><br>OverpassTurbo](https://overpass-turbo.eu/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+    {: .button_array}
+
+    ???+ example "Query examples"
+        *get all peaks in the bounding box*
+
+            [out:json];
+            node[natural=peak]({{bbox}});
+            out body;
+
+        *get all railway stations in Prague*
+
+            area[name="Praha"];
+            nwr(area)[railway=station];
+            out;
+
+
+    **4. BBBike**
+
+    BBBike extracts allows you to extracts areas from Planet.osm in OSM, PBF, o5m, Garmin, Organic Maps, mbtiles, OsmAnd, Esri shapefile, mapsforge, OPL, GeoJSON, SQLite, text or CSV format. The maximum area size is 24,000,000 square km, or 1500 MB file size. It takes between 2-7 minutes to extract an area. The email field is required, you will be notified by email if your extract is ready for download. Please use a meaningfull name for the extract.
+
+    [<span>https://extract.bbbike.org//</span><br>BBBike](https://extract.bbbike.org/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+    {: .button_array}
+
+    ???+ example "How to use the BBBike extract service"
+        – move the map to your desired location
+
+        – click to create the bounding box
+
+        – move or resize the bounding box, or add new points to the polygon
+
+        – select a Format, enter Your email address and Name of area to extract
+
+        – click the extract button. Wait for email notification and download the map. Done!
+
 ## [Veřejná databáze ČSÚ](https://vdb.czso.cz/vdbvo2/ " VDB ČSÚ")
 Český statistický úřad (ČSÚ) je ústředním orgánem státní správy České republiky. Byl zřízen dne 8. ledna 1969 zákonem č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy. Veřejná databáze ČSÚ (VDB) je úzce napojená na statistický metainformační systém ČSÚ, zejména na systém ukazatelů a číselníků. Každý údaj v databázi je identifikován z hlediska věcného, časového i územního a také odkazem na zdroj dat. ČSÚ rámci VDB tedy poskytuje demografická statistická data vztažená k různým úrovním administrativních jednotek ČR, které je možné zdarma stahovat a připojit do GIS.
 
