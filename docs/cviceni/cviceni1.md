@@ -48,7 +48,7 @@ title: Cvičení 1
 [Eurostat](https://ec.europa.eu/eurostat/en/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [Statistical Atlas (Eurostat)](https://ec.europa.eu/statistical-atlas/viewer/?mids=BKGCNT,BKNUTS2,C13M03,CNTOVL&o=1,1,1,0.7&ch=CH_CENSUS_AGE&center=46.17701,21.37986,4&lcis=C13M03&){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 {: .button_array}
-### svět
+### Svět
 [Gapminder](https://www.gapminder.org/data/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [EM-DAT (The International Disaster Database)](https://www.emdat.be/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [The Humanitarian Data Exchange (HDX)](https://data.humdata.org/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
