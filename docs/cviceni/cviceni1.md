@@ -9,6 +9,7 @@ title: Cvičení 1
 
 [30 Days Map Challenge](https://30daymapchallenge.com/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [Visual capitalist](https://www.visualcapitalist.com/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+[TU Wien](https://cartographymaster.eu/studentwork/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [Atlas moravskoslezského kraje 2](https://geoportal.msk.cz/Public/Apps/atlasmsk/atlasMSK2_web.pdf){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [Česko v číslech 2023](https://csu.gov.cz/docs/107508/d7dc0675-d4ee-1aa1-bea0-ccac5b2d81a2/32020323.pdf?version=1.0){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 {: .button_array}
