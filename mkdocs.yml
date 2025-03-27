@@ -5,9 +5,12 @@ nav:
       - Zadání projektu, inspirace, zdroje: cviceni/cviceni1.md
       - Zpracování dat, Geocoding: cviceni/cviceni2.md
       - Kontrolní den 1: cviceni/cviceni3.md
-      - Infografika, layout: cviceni/cviceni4.md
-      - Kontrolní den 2: cviceni/cviceni5.md
-      - Kontrolní den 3: cviceni/cviceni6.md
+      - Pokročilé metody tematické kartografie (část 1): cviceni/cviceni4.md
+      - Pokročilé metody tematické kartografie (část 2): cviceni/cviceni5.md
+      - Kontrolní den 2: cviceni/cviceni6.md
+      - Layout, infografika: cviceni/cviceni7.md
+      - Kontrolní den 3: cviceni/cviceni8.md
+
   - Data: data.md
   # - Hodnocení: hodnoceni.md
   # - Kvíz: quiz.md
