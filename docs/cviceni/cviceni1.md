@@ -51,6 +51,7 @@ title: Cvičení 1
 {: .button_array}
 ### Svět
 [Gapminder](https://www.gapminder.org/data/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+[GADM](https://gadm.org/index.html){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [EM-DAT (The International Disaster Database)](https://www.emdat.be/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [The Humanitarian Data Exchange (HDX)](https://data.humdata.org/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [World Bank Open Data](hhttps://databank.worldbank.org/home){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}

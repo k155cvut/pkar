@@ -10,7 +10,7 @@ hranic a rozdělení území pomocí pravidelné mřížky na buňky stejné vel
 časově a územně proměnlivé administrativní struktuře. Použití pravidelné mřížky usnadňuje analýzu prostorových vzorců a pomáhá vizuálně interpretovat rozložení bodových dat, zejména v případě velkých datových souborů. Tato metoda umožňuje agregaci dat do pravidelné sítě buněk. Každá buňka pak obsahuje souhrnné statistiky bodových prvků, které do ní spadají – například jejich počet, průměrné hodnoty vybraných atributů nebo jiné metriky.
 
 <figure markdown>
-  ![](../assets/cviceni4/hexbins.png "Ukázka metody z California Water Atlas (William Bowen, 1979)"){ width=500px }
+  ![](../assets/cviceni4/hexbins.png){ width=500px }
 </figure>
 
 ## Waffle
