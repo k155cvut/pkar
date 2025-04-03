@@ -28,16 +28,9 @@ Cílem projektu je zkombinovat veškeré znalosti z předchozích předmětů Ka
 
 ## Kontroly
 
-Před každým kontrolním dnem (odevzdání vždy do pondělní půlnoci) student vyplní následující formulář, který popisuje jeho práci.
+Před každým kontrolním dnem (odevzdání vždy do pondělní půlnoci) student vyplní formulář ArcGIS Survey, který popisuje jeho práci. Odkazy na formuláře v záložkách [kontrolních dní](https://k155cvut.github.io/pkar/cviceni/cviceni6/).
 
-<figure markdown>
-![](./assets/data/155PKAR.png){ width=200px }
-</figure>
-
-[<span>pro.arcgis.com</span><br>Kontrolní formulář](https://arcg.is/1XrH9a3){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
-{: .button_array}
-
-Fakultativně možno vyplnit následujíí pomůcku pro přípravu tématu a návrhu mapového výstupu:
+Fakultativně možno vyplnit následující pomůcku pro přípravu tématu a návrhu mapového výstupu:
 
 [<span>pro.arcgis.com</span><br>Mapmaker's checklist](https://downloads.esri.com/MappingCenter2007/arcGISResources/more/MapEvaluationGuidelines.pdf){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 {: .button_array}
