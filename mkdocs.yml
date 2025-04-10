@@ -12,8 +12,7 @@ nav:
       - Kontrolní den 3: cviceni/cviceni8.md
 
   - Data: data.md
-  # - Hodnocení: hodnoceni.md
-  # - Kvíz: quiz.md
+  - Harmonogram: harmonogram.md
 plugins:
   - search
   - glightbox:
