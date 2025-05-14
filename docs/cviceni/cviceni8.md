@@ -16,7 +16,11 @@ title: Cvičení 8
 
 ### Odevzdání výstupu
 - na prezentaci přineste mapový poster v tištěné podobě
-- finální verzi mapového posteru ve formátu PDF zároveň před prezentací nahrajte do sdílené složky [**PKAR2025_prezentace**](https://tinyurl.com/2025PKAR){target="_blank"}
+- finální verzi mapového posteru ve formátu PDF zároveň před prezentací nahrajte do sdílené složky [**PKAR2025_prezentace**](https://tinyurl.com/2025PKAR){target="_blank"} *(můžete sem nahrát i soubor s prezentaci, pokud budete mít připraven)*
+
+### Průběh prezentace
+- vlastní prezentace (3–4 min) – postačí slovní popis nad ukázkou výstupu (viz obsah níže!), případně si můžete k prezentaci připravit slajdy *(není nutné)*
+- po prezentaci Vašeho výstupu bude následovat slovní hodnocení mapy od Vašeho oponenta (1–2min) a diskuze (1–2min), kde se můžete vyjádřit k připomínkám oponenta, případně (v závislosti na zbývajícím čase) budeme mít k Vaší mapě komentáře my 😊
 
 ### Obsah prezentace (3–4min)
 - představení tématu *(mapu čeho a proč jste vytvořili, motivace, účel mapy (pro koho je mapa určena?); pokud je to neobvyklé téma, vysvětlit, o co se jedná)*
@@ -33,7 +37,3 @@ title: Cvičení 8
 - silné stránky mapy *(co se povedlo a proč, např. vhodná aplikace metod TK, použitá infografika, design, zajímavý nápad/zpracování apod.)*
 - slabé stránky mapy *(co se nepovedlo a proč, a jak by to šlo udělat lépe; např. nevhodná aplikace metod TK, nedodržení kartografických zásad, chybějící kompoziční prvky apod.)*
 
-
-### Průběh prezentace
-- vlastní prezentace (3–4 min) – postačí slovní popis nad ukázkou výstupu (viz obsah výše!), případně si můžete k prezentaci připravit slajdy *(není nutné)*
-- po prezentaci Vašeho výstupu bude následovat slovní hodnocení mapy od Vašeho oponenta (1–2min) a diskuze (1–2min), kde se můžete vyjádřit k připomínkám oponenta, případně (v závislosti na zbývajícím čase) budeme mít k Vaší mapě komentáře my 😊
