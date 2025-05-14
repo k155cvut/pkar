@@ -16,7 +16,7 @@ title: Cvičení 8
 
 ### Odevzdání výstupu
 - na prezentaci přineste mapový poster v tištěné podobě
-- finální verzi mapového posteru ve formátu PDF zároveň před prezentací nahrajte do sdílené složky [**PKAR2025_prezentace**](https://tinyurl.com/2025PKAR){target="_blank"} *(můžete sem nahrát i soubor s prezentaci, pokud budete mít připraven)*
+- finální verzi mapového posteru ve formátu PDF zároveň před prezentací nahrajte do sdílené složky [**PKAR2025_prezentace**](https://tinyurl.com/2025PKAR){target="_blank"} *(můžete sem nahrát i soubor s prezentací, pokud budete mít připraven)*
 
 ### Průběh prezentace
 - vlastní prezentace (3–4 min) – postačí slovní popis nad ukázkou výstupu (viz obsah níže!), případně si můžete k prezentaci připravit slajdy *(není nutné)*
