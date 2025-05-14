@@ -20,7 +20,7 @@ nezapomeňte odhadnout kredity a spustit operaci.
         Můžete také upravit nastavení lokátoru a geokódovat adresy, které byly přiřazeny k neočekávaným výsledkům. Tento proces se
         nazývá *Rematching*.
 
-3.  Prakticky si lze geocoding vyzkoušet např. na tabulce [Tour dates Eltona Johna](https://en.wikipedia.org/wiki/Farewell_Yellow_Brick_Road#Tour_dates) z Wikipedie.
+3.  Prakticky si lze geocoding vyzkoušet např. na tabulce [Tour dates Eltona Johna](https://en.wikipedia.org/wiki/Farewell_Yellow_Brick_Road#Tour_dates){target="_blank"} z Wikipedie.
 Tu je nejprve nutné načíst do Excelu pomocí nástroje *Načíst data z webu* a zadání URL. Výběrem správné tabulky v dialogovém okně proběhne import dat, které je vhodné
 doplnit a opravit (např. odfiltrovat řádky s názvy kontinentů či doplnění názvu států do prázdných kolonek). Pro potřeby geocodingu využijeme sloupce *City* a *Country*.
 

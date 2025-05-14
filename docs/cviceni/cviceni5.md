@@ -5,9 +5,9 @@ title: Cvičení 5
 ## Složený kartodiagram
 Pokročilý přístup ke klasickému pie chartu může vést k dělení kruhu dle množství jevů a práci se změnou poloměru těchto segmentů. V ArcGIS Pro je možné použít metodu *Proportional Symbols* a zvolit symbol půlkruhu či čtvrtkruhu, které po změně rotace formují koncentrické kruhové výseče.
 
-Metodu je možné vyzkoušet na datech [vídeňských městských částí](https://www.data.gv.at/katalog/en/dataset/2ee6b8bf-6292-413c-bb8b-bd22dbb2ad4b).
+Metodu je možné vyzkoušet na datech [vídeňských městských částí](https://www.data.gv.at/katalog/en/dataset/2ee6b8bf-6292-413c-bb8b-bd22dbb2ad4b){target="_blank"}.
 
-K nim připojíme [data](https://www.data.gv.at/katalog/en/dataset/0c4279aa-e14c-4626-9b4b-882fa32551b0) obsahující počty obyvatel dle místa narození za rok 2023 a predikci demografického vývoje pro rok 2043.
+K nim připojíme [data](https://www.data.gv.at/katalog/en/dataset/0c4279aa-e14c-4626-9b4b-882fa32551b0){target="_blank"} obsahující počty obyvatel dle místa narození za rok 2023 a predikci demografického vývoje pro rok 2043.
 
 Nastavíme v symbologii *Proportional Symbols* a vybereme symbol čtvrtkruhu (obsažen např. v *ESRI IGL Font22*), který pro každý jev vhodně natočíme, aby dohromady pokryly celých 360°.
 
