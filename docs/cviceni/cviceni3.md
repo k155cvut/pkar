@@ -3,6 +3,12 @@ icon: material/numeric-3-box
 title: Cvičení 3
 ---
 
+<div style="text-align: center;" markdown="1">
+
+## formulář odešlete nejpozději do čtvrtka 26. února do 12.00!
+
+</div>
+
 <figure markdown>
 ![](./assets/data/155PKAR.png){ width=200px }
 </figure>

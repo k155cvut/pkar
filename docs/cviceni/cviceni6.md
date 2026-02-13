@@ -2,6 +2,11 @@
 icon: material/numeric-6-box
 title: Cvičení 6
 ---
+<div style="text-align: center;" markdown="1">
+
+## formulář odešlete nejpozději do čtvrtka 9. dubna do 12.00!
+
+</div>
 
 <figure markdown>
 ![](./assets/data/155PKAR – 2. kontrola.png){ width=200px }

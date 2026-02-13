@@ -6,7 +6,7 @@ title: Cvičení 8
 # Kontrolní den 3
 ## Prezentace mapového výstupu
 
---> [**časový harmonogram prezentací**](https://tinyurl.com/155PKAR){target="_blank"}
+--> [**časový harmonogram prezentací**](https://docs.google.com/spreadsheets/d/1CRaESwVAKTbf1wrZwxh72D2qE0wl7teVPnMgxCTqiw8/){target="_blank"}
 
 ### Tipy před odevzdáním
 - nezapomeňte si zkontrolovat, že mapa obsahuje všechny náležitosti (viz [**kritéria hodnocení**](https://k155cvut.github.io/pkar/#binarni-kriteria)) a vyvarujte se nejčastějších kartografických chyb
