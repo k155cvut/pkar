@@ -35,9 +35,9 @@ Fakultativně možno vyplnit následující pomůcku pro přípravu tématu a n�
 [<span>pro.arcgis.com</span><br>Mapmaker's checklist](https://downloads.esri.com/MappingCenter2007/arcGISResources/more/MapEvaluationGuidelines.pdf){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 {: .button_array}
 
-Sdílený soubor s podklady a poznámkami pro jednotlivá témata studentů (24/25):
+Sdílený soubor s podklady a poznámkami pro jednotlivá témata studentů (25/26):
 
-[<span>155PKAR</span><br>Aktuální témata](https://docs.google.com/spreadsheets/d/1ggmOVdmf48_uTIfVlguYbV7FQ3rW_PYpvAW7WMVgpok/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+[<span>155PKAR</span><br>Aktuální témata](https://docs.google.com/spreadsheets/d/1CRaESwVAKTbf1wrZwxh72D2qE0wl7teVPnMgxCTqiw8/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 {: .button_array}
 
 ### Binární kritéria

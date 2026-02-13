@@ -6,11 +6,13 @@ title: Cvičení 1
 # Zadání projektu, ukázky studentských prací, přehled vhodného software, zdroje dat
 
 ## Inspirace
-
 [30 Days Map Challenge](https://30daymapchallenge.com/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [Visual capitalist](https://www.visualcapitalist.com/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [TU Wien](https://cartographymaster.eu/studentwork/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
-[Atlas moravskoslezského kraje 2](https://geoportal.msk.cz/Public/Apps/atlasmsk/atlasMSK2_web.pdf){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+[UK](https://datahub.natur.cuni.cz/pages/vystupy){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+[Journal of Maps](hhttps://www.tandfonline.com/journals/tjom20/collections/best-map-award){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+[Atlas moravskoslezského kraje](https://geoportal.msk.cz/Public/Apps/atlasmsk/atlasMSK2_web.pdf){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+[BP (UPOL): Tematický atlas Olomouckého kraje](https://www.geoinformatics.upol.cz/dprace/bakalarske/zejdlik20/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [Česko v číslech 2023](https://csu.gov.cz/docs/107508/d7dc0675-d4ee-1aa1-bea0-ccac5b2d81a2/32020323.pdf?version=1.0){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 {: .button_array}
 
@@ -28,7 +30,11 @@ title: Cvičení 1
 [GIS&T: Cartography and Visualization](https://gistbok-topics.ucgis.org/CV){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [Jan Miklín: Tvorba map](https://tvorbamap.osu.cz/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [Mapping for a Sustainable World](https://www.un-ilibrary.org/content/books/9789216040468/read){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+[DP (UPOL): Netradiční podoby kartodiagramů a možnosti jejich konstrukce](https://www.geoinformatics.upol.cz/dprace/magisterske/hohnova19/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+[BP (UPOL): Srovnání grafické náplně tematických map využívajících metod multivariate mapping](https://www.geoinformatics.upol.cz/dprace/bakalarske/sosta24/index.html){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+[John Nelson Youtube Channel](https://www.youtube.com/@JohnNelsonMaps){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 {: .button_array}
+
 
 ## Datové zdroje
 ### Česko
