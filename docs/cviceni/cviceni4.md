@@ -3,15 +3,18 @@ icon: material/numeric-4-box
 title: Cvičení 4
 ---
 # Pokročilé metody tematické kartografie (část 1)
-## Pravidelná polygonová síť (grid)
-Metoda gridu (angl. binning, hexagon bin, hexbin) neboli pravidelné polygonové sítě, se řadí
-ke zvláštnímu druhu areálových metod. Princip leží v zanedbání původních administrativních
-hranic a rozdělení území pomocí pravidelné mřížky na buňky stejné velikosti, které nepodléhají
-časově a územně proměnlivé administrativní struktuře. Použití pravidelné mřížky usnadňuje analýzu prostorových vzorců a pomáhá vizuálně interpretovat rozložení bodových dat, zejména v případě velkých datových souborů. Tato metoda umožňuje agregaci dat do pravidelné sítě buněk. Každá buňka pak obsahuje souhrnné statistiky bodových prvků, které do ní spadají – například jejich počet, průměrné hodnoty vybraných atributů nebo jiné metriky.
 
-<figure markdown>
-  ![](../assets/cviceni4/hexbins.png){ width=500px }
-</figure>
+## Složený kartodiagram
+Pokročilý přístup ke klasickému pie chartu může vést k dělení kruhu dle množství jevů a práci se změnou poloměru těchto segmentů. V ArcGIS Pro je možné použít metodu *Proportional Symbols* a zvolit symbol půlkruhu či čtvrtkruhu, které po změně rotace formují koncentrické kruhové výseče.
+
+Metodu je možné vyzkoušet na datech [vídeňských městských částí](https://www.data.gv.at/katalog/en/dataset/2ee6b8bf-6292-413c-bb8b-bd22dbb2ad4b){target="_blank"}.
+
+K nim připojíme [data](https://www.data.gv.at/katalog/en/dataset/0c4279aa-e14c-4626-9b4b-882fa32551b0){target="_blank"} obsahující počty obyvatel dle místa narození za rok 2023 a predikci demografického vývoje pro rok 2043.
+
+Nastavíme v symbologii *Proportional Symbols* a vybereme symbol čtvrtkruhu (obsažen např. v *ESRI IGL Font22*), který pro každý jev vhodně natočíme, aby dohromady pokryly celých 360°.
+
+???+ tip "Legenda"
+      Legendu lze v *Layoutu* vygenerovat obvyklým způsobem, je však nutné přidat fiktivní řádek do atributové tabulky s globálním minimem, který nám zajistí konzistentní stupnici pro všechny jevy. Najděte tedy nejnižší hodnotu mezi všemi jevy, zaokrouhlete ji vhodně směrem dolů a vyplňte do pomocného záznamu v tabulce.
 
 ## Waffle
 Metoda *Waffles* zobrazuje kvantity kategorií tvořící celek. Je podobná pie chartu, ale má mřížkový vzhled. Každá ze složek kategorie je pak v mřížce zobrazena jako opakující se symbol. Symbolika se obvykle provádí pomocí různých odstínů, které reprezentují různé kategorie. Metodu lze rovněž využít pro zobrazení časových řad.
