@@ -14,6 +14,19 @@ hranic a rozdělení území pomocí pravidelné mřížky na buňky stejné vel
   ![](../assets/cviceni4/hexbins.png){ width=500px }
 </figure>
 
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlZMGDeNpTc?si=EEaxeIcEohuU7DvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<br>
+
+[<span>pro.arcgis.com</span><br>Aggregate features into bins](https://pro.arcgis.com/en/pro-app/latest/help/mapping/layer-properties/aggregate-features-into-bins.htm){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+[<span>ArcGIS Data</span><br>Data enrichment](https://doc.arcgis.com/en/esri-demographics/latest/reference/data-allocation-method.htm){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+{: .button_array}
+
+<hr class="level-1">
+
+
 ## Coxcomb
 Jedná se o varianta na pie chart, která vzniká dělením kruhu do rovnoměrných segmentů (např. dle počtu časových úseků), s poloměrem (výseče) lišícím se podle kvantity jevu. Výsledkem jsou segmenty, které se liší rozsahem od středu grafu. Obvykle se používá k zobrazení časových jevů v souladu s původním použitím Florence Nightingale v jejím klasickém diagramu úmrtnosti východních armád z roku 1858.
 
