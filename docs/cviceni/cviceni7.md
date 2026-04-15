@@ -34,6 +34,10 @@ Nástroj zjednodušuje linie nebo polygony odstraněním nadbytečných vertexů
 - **tolerance** – míra zjednodušení (čím vyšší, tím větší redukce)  
 - **minimum area** – minimální plocha (pro polygony)
 
+<figure markdown>
+  ![](../assets/algorithms.png){ width=500px }
+</figure>
+
 ---
 
 ## Algoritmy zjednodušení linií
