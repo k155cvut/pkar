@@ -35,7 +35,7 @@ Nástroj zjednodušuje linie nebo polygony odstraněním nadbytečných vertexů
 - **minimum area** – minimální plocha (pro polygony)
 
 <figure markdown>
-  ![](../assets/algorithms.png){ width=500px }
+  ![](../assets/algorithms.png){ width=250px }
 </figure>
 
 ---
