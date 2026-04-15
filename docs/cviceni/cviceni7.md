@@ -53,8 +53,6 @@ Jeden z nejznámějších algoritmů pro zjednodušení linií.
 - Pokud je vzdálenost větší než tolerance → bod se zachová  
 - Proces se rekurzivně opakuje  
 
-➡️ Odstraňuje méně významné body, ale negeneruje nové body.
-
 **Vlastnosti:**
 
 - rychlý  
@@ -77,7 +75,6 @@ Alternativní algoritmus založený na ploše.
 - Pokud je plocha menší než tolerance → bod se odstraní  
 - Proces se opakuje  
 
-➡️ Odstraňuje body s nejmenším vlivem na tvar linie.
 
 **Vlastnosti:**
 
