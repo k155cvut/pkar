@@ -3,6 +3,132 @@ icon: material/numeric-7-box
 title: Cvičení 7
 ---
 
+# Kartografická generalizace
+
+Kartografická generalizace je klíčový proces při tvorbě map, který umožňuje přizpůsobit geografická data měřítku a účelu mapy.
+
+### **Definice generalizace**
+
+- **[map design]**:
+    Abstrakce, redukce a zjednodušení prvků při změně měřítka nebo rozlišení.
+
+- **[data editing – vektorová data]**:
+    Proces redukce počtu bodů linie při zachování jejího základního tvaru.
+
+- **[data editing – rastrová data]**:
+    Proces zvětšování a převzorkování buněk rastru.
+
+---
+
+## How-to: Simplify Line / Polygon (ArcGIS Pro)
+
+**Umístění:**  
+`Geoprocessing Tools > Cartography toolbox > Generalization toolset`
+
+**Popis:**  
+Nástroj zjednodušuje linie nebo polygony odstraněním nadbytečných vertexů při zachování základního tvaru prvku.
+
+**Parametry:**
+
+- **algorithm** – použitý algoritmus generalizace  
+- **tolerance** – míra zjednodušení (čím vyšší, tím větší redukce)  
+- **minimum area** – minimální plocha (pro polygony)
+
+---
+
+## Algoritmy zjednodušení linií
+
+### **Douglas–Peucker**
+
+Jeden z nejznámějších algoritmů pro zjednodušení linií.
+
+**Princip:**
+
+- Spojí první a poslední bod linie přímkou  
+- Najde bod s největší vzdáleností od této přímky  
+- Pokud je vzdálenost větší než tolerance → bod se zachová  
+- Proces se rekurzivně opakuje  
+
+➡️ Odstraňuje méně významné body, ale negeneruje nové body.
+
+**Vlastnosti:**
+
+- rychlý  
+- může vytvářet „ostřejší“ (hranatější) tvary  
+- vhodný pro technické/umělé objekty  
+
+<figure markdown>
+  ![](../assets/dp-2.gif){ width=500px }
+</figure>
+---
+
+### **Visvalingam–Whyatt**
+
+Alternativní algoritmus založený na ploše.
+
+**Princip:**
+
+- Pro každou trojici sousedních bodů vytvoří trojúhelník  
+- Identifikuje trojúhelník s nejmenší plochou  
+- Pokud je plocha menší než tolerance → bod se odstraní  
+- Proces se opakuje  
+
+➡️ Odstraňuje body s nejmenším vlivem na tvar linie.
+
+**Vlastnosti:**
+
+- produkuje „hladší“ a přirozenější geometrie  
+- vhodný pro přírodní objekty (řeky, pobřeží)  
+- pomalejší než Douglas–Peucker  
+
+<figure markdown>
+  ![](../assets/vw.gif){ width=500px }
+</figure>
+---
+
+### **Srovnání algoritmů**
+
+| Vlastnost | Douglas–Peucker | Visvalingam–Whyatt |
+|----------|----------------|-------------------|
+| Kritérium | vzdálenost | plocha |
+| Rychlost | vyšší | nižší |
+| Výsledek | ostřejší | hladší |
+| Vhodnost | technické prvky | přírodní prvky |
+
+---
+
+### **Klíčové pojmy**
+
+- **Tolerance (ε)**  
+  Určuje míru zjednodušení – čím vyšší hodnota, tím více bodů je odstraněno  
+
+- **Zachování tvaru**  
+  Cílem je minimalizovat ztrátu charakteristických rysů linie  
+
+- **Topologie**  
+  Některé algoritmy mohou narušit topologické vztahy (např. vznik překryvů) :contentReference[oaicite:4]{index=4}  
+
+---
+
+### **Interaktivní ukázka**
+
+Vyzkoušejte si, jak funguje zjednodušení linií v praxi:
+
+<iframe width="100%" height="750" src="https://bost.ocks.org/mike/simplify/" 
+title="Line Simplification Interactive Demo">
+</iframe>
+
+---
+
+### **Shrnutí**
+
+- Generalizace je nezbytná pro práci s různými měřítky map  
+- Zjednodušení linií je jednou z nejčastějších operací  
+- Volba algoritmu ovlivňuje výsledný vzhled mapy  
+- Neexistuje univerzálně nejlepší metoda – záleží na typu dat a účelu mapy  
+
+---
+
 # Základní principy tvorby mapového layoutu
 
 Při sestavování mapy do layoutu je potřeba zohlednit mnoho aspektů. Níže jsou tři klíčové principy, které byste měli mít na paměti:
