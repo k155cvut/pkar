@@ -24,6 +24,7 @@ title: Cvičení 1
 [Ken Field](https://cartoblography.com/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [Nicola Raluca](https://raluca-nicola.net/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [Sacha Schlumpf](https://sacha-schlumpf.ch/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+[Jakob Listabarth](https://jakoblistabarth.com/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 {: .button_array}
 
 ## Výukové materiály
@@ -33,6 +34,7 @@ title: Cvičení 1
 [DP (UPOL): Netradiční podoby kartodiagramů a možnosti jejich konstrukce](https://www.geoinformatics.upol.cz/dprace/magisterske/hohnova19/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [BP (UPOL): Srovnání grafické náplně tematických map využívajících metod multivariate mapping](https://www.geoinformatics.upol.cz/dprace/bakalarske/sosta24/index.html){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 [John Nelson Youtube Channel](https://www.youtube.com/@JohnNelsonMaps){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
+[NGC Tutorials](https://next-generation-cartographers.github.io/resources/map-tutorials/){ .md-button .md-button--primary .server_name .external_link_icon_small target="_blank"}
 {: .button_array}
 
 
