@@ -3,7 +3,7 @@ icon: material/numeric-7-box
 title: Cvičení 7
 ---
 
-# Kartografická generalizace
+# Kartografická generalizace test
 
 Kartografická generalizace je klíčový proces při tvorbě map, který umožňuje přizpůsobit geografická data měřítku a účelu mapy.
 
