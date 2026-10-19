@@ -30,7 +30,7 @@ Nástroj zjednodušuje linie nebo polygony odstraněním nadbytečných vertexů
 
 **Parametry:**
 
-- **algorithm** – použitý algoritmus generalizace...
+- **algorithm** – použitý algoritmus generalizace  
 - **tolerance** – míra zjednodušení (čím vyšší, tím větší redukce)  
 - **minimum area** – minimální plocha (pro polygony)
 
