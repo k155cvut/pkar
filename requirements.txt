@@ -1,5 +1,0 @@
-mkdocs
-mkdocs-material
-pillow
-cairosvg
-mkdocs-glightbox==0.5.1
